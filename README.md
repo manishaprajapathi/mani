@@ -1,0 +1,2 @@
+# mani
+welcome to git
